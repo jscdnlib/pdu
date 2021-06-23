@@ -1054,7 +1054,7 @@
         var TP_PID;
         var TP_DCS;
         var dataList = {}; 
-        dataList.test = "al";
+        dataList.test = "hi";
 
         // smsc part
         var smscLength = parseInt( octets[0], 16 );
